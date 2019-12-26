@@ -1,0 +1,6 @@
+[submodule "eve-web"]
+	path = eve-web
+	url = ./eve-web
+[submodule "eve-training"]
+	path = eve-training
+	url = ./eve-training/
