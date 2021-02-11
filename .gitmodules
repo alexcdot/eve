@@ -1,3 +1,6 @@
 [submodule "eve-training"]
 	path = eve-training
 	url = git@github.com:alexcdot/eve-training.git
+[submodule "eve-web"]
+	path = eve-web
+	url = git@github.com:simonguozirui/eve-web.git
